@@ -1,0 +1,26 @@
+Explicite:
+ L = 4
+ N = 100
+ F = 0
+ nb of iter = 613, cpu tot time = 0.5305440266927083 min
+ error after 1.000714212835432 sec = 0.5353470520912562
+
+ L = 4
+ N = 200
+ F = 0
+ nb of iter = 2476, cpu tot time = 4.903538691997528 min
+ error after 1.0003787783137168 sec = 0.538283003587946
+
+
+Implicite:
+ L = 4
+ N = 100
+ F = 0
+ nb of iter = 248, cpu tot time = 0.22126390933990478 min
+ error after 1.0020202020202067 sec = 0.0014513121413414455
+
+  L = 4
+   N = 200
+   F = 0
+ nb of iter = 498, cpu tot time = 0.877095103263855 min
+ error after 1.0010050251256408 sec = 0.0007382388054241285

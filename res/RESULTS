@@ -1,0 +1,30 @@
+ start calcul error for:
+   L = 4
+   N = 100
+   F = -10
+ nb of iter = 248, tot time = 0.2892542839050293 min
+ error after 1.0020202020202067 sec = 0.018305396822235705
+
+ saving solution in res/m_1
+
+ # ---
+
+ start calcul error for:
+   L = 4
+   N = 100
+   F = 0.0
+ nb of iter = 248, tot time = 0.36473955313364664 min
+ error after 1.0020202020202067 sec = 0.0014513121413412707
+
+ saving solution in res/m_2
+
+ # ---
+
+ start calcul error for:
+   L = 4
+   N = 100
+   F = 10.0
+ nb of iter = 248, tot time = 0.38864465554555255 min
+ error after 1.0020202020202067 sec = 1.0076334797540138
+
+ saving solution in res/m_3
